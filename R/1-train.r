@@ -57,4 +57,4 @@ articles <- get_articles(sql="SELECT CONCAT(title, ' ', `lead`, ' ', body) AS bo
 wordvectors <- articles$body %>%
     train_word2vec(window=15, n_iter=1000, convergence_tol=0.00001)
 
-saveRDS(wordvectors, "trained-wordvectors.rds")
+saveRDS(wordvectors, "wordvectors.rds")
