@@ -5,7 +5,7 @@ från sommaren 2019 till april 2021.
 
 Detta är mest tänkt att användas för min egen skull för att kunna bygga
 ordlistor med relaterade nyckelord, och därför är träningen inte så omfattande
-eller systematisk. Men jag tänkte att andra kanske skulle kunna ha nytta av den ocskå.
+eller systematisk. Men jag tänkte att andra kanske skulle kunna ha nytta av den också.
 
 ## Använd
 
